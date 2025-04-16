@@ -1,0 +1,4 @@
+.env
+.venv 
+yolo_dataset
+to_train_combined.txt
